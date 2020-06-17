@@ -1,2 +1,2 @@
 # Watch
-Working with writing simple windows with PowerShell.
+Simple windows with PowerShell.
